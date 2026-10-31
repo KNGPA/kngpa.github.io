@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kngpa.younity",
+        "sha256_cert_fingerprints": ["7B:06:FD:62:2E:1B:18:BD:20:D3:86:D8:1F:3C:93:2D:C9:65:73:D1:95:75:78:ED:9C:A8:4E:65:0D:CD:51:5F"]
+      }
+    }]
